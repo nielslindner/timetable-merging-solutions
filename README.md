@@ -1,0 +1,2 @@
+This is a data repository containing solutions to instances for the Periodic Event Scheduling Problem (PESP), created for the paper
+"Timetable Merging for the Periodic Event Scheduling Problem" by Niels Lindner and Christian Liebchen.
