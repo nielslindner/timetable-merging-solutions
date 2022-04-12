@@ -3,3 +3,5 @@ This is a data repository containing solutions to instances for the Periodic Eve
 
 The data format is the PESPlib solution file format described here:
 http://num.math.uni-goettingen.de/~m.goerigk/pesplib/
+
+ [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
